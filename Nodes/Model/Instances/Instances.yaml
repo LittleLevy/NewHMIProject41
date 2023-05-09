@@ -56,3 +56,14 @@ Children:
     Type: BaseDataVariableType
     DataType: Int32
     Value: 0
+- Name: Motor6
+  Type: Motor1
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+  - Name: Variable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
